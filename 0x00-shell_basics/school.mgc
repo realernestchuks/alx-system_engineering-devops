@@ -1,3 +1,2 @@
 0 string SCHOOL School data file
 file -C -m school.mgc school.magic
-file -m school.mgc your_file
